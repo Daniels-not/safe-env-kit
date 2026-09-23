@@ -16,5 +16,18 @@
   "scripts": { "test": "node --test" },
   "engines": { "node": ">=18" },
   "keywords": ["env", "environment", "validation", "config", "dotenv", "typescript"],
-  "license": "MIT"
+  "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/Daniels-not/safe-env-kit"
+  },
+  "homepage": "https://safe-env-kit.vercel.app/",
+  "bugs": {
+    "url": "https://github.com/Daniels-not/safe-env-kit/issues"
+  },
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://buymeacoffee.com/ramycampusk"
+  },
+  "author": "Ramy Campusano"
 }
